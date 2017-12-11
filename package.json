@@ -14,5 +14,10 @@
             "name": "cordova",
             "version": ">=3.4.0"
         }
-    ]
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/willtn/cordova-plugin-inappbrowserxwalk.git"
+    },
+    "author": ""
 }
